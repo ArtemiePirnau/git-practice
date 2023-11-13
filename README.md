@@ -1,3 +1,3 @@
-# Hello Worls
+# Hello World
 
 # Example of text
