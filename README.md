@@ -1,3 +1,3 @@
-# Adaug text exemplu
+# Hello Worls
 
-# Vreau sa ma intorc in timp
+# Example of text
